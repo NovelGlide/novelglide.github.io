@@ -8,7 +8,7 @@ When you use this application, we may collect the following data:
 
 - **Device Data**: We may collect technical data related to your device, such as device model, operating system version, app version, and device language. Additionally, we collect data about your interactions with the app, such as the buttons you click, the features you use, and the pages you view.
 - **Storage Data**: We do not collect your private files or personal data. All your book content, reading progress, bookmarks, and collections are stored only on your device.
-   - Cloud Backup: If you choose to use the cloud backup feature, the relevant data will be backed up to your personal cloud drive. Rest assured, this backup data is stored only in a dedicated hidden folder for this app. We cannot and do not have the right to access any other files on your cloud drive. You retain full control over all your data.
+   - **Cloud Backup**: If you choose to use the cloud backup feature, the relevant data will be backed up to your personal cloud drive. Rest assured, this backup data is stored only in a dedicated hidden folder for this app. We cannot and do not have the right to access any other files on your cloud drive. You retain full control over all your data.
 
 ## 2. How We Use Your Data
 
@@ -27,8 +27,8 @@ We take reasonable technical and administrative measures to protect your data fr
 
 We do not sell, trade, or rent your personal data to third parties. However, we may share your data with third parties in the following situations:
 
-1. Legal Requirements: If required by law or government authorities, we may need to disclose your data in accordance with the law.
-2. Partners or Service Providers: In some cases, we may share non-personally identifiable data with carefully selected third-party service providers to help us provide app functions (e.g., server hosting, data analysis). These third-party service providers are only allowed to use your data according to our instructions and are bound by their own privacy policies.
+1. **Legal Requirements**: If required by law or government authorities, we may need to disclose your data in accordance with the law.
+2. **Partners or Service Providers**: In some cases, we may share non-personally identifiable data with carefully selected third-party service providers to help us provide app functions (e.g., server hosting, data analysis). These third-party service providers are only allowed to use your data according to our instructions and are bound by their own privacy policies.
    - **Google AdMob**: Used to provide in-app advertising services. You can manage your ad preferences in your device settings.
    - **Google Analytics for Firebase**: Used to analyze app usage data to help us understand user behavior and improve the app.
 
