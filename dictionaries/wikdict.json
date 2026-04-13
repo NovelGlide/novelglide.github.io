@@ -1,0 +1,110 @@
+[
+  {
+    "id": "wikdict-en-zh-Hans",
+    "name": "WikDict",
+    "sourceLanguage": "en",
+    "targetLanguage": "zh-Hans",
+    "url": "https://download.wikdict.com/dictionaries/stardict/wikdict-en-zh.zip",
+    "license": "CC BY-SA 3.0",
+    "source": "WikDict"
+  },
+  {
+    "id": "wikdict-zh-Hans-en",
+    "name": "WikDict",
+    "sourceLanguage": "zh-Hans",
+    "targetLanguage": "en",
+    "url": "https://download.wikdict.com/dictionaries/stardict/wikdict-zh-en.zip",
+    "license": "CC BY-SA 3.0",
+    "source": "WikDict"
+  },
+  {
+    "id": "wikdict-en-zh-Hant",
+    "name": "WikDict",
+    "sourceLanguage": "en",
+    "targetLanguage": "zh-Hant",
+    "url": "https://download.wikdict.com/dictionaries/stardict/wikdict-en-zh.zip",
+    "license": "CC BY-SA 3.0",
+    "source": "WikDict"
+  },
+  {
+    "id": "wikdict-zh-Hant-en",
+    "name": "WikDict",
+    "sourceLanguage": "zh-Hant",
+    "targetLanguage": "en",
+    "url": "https://download.wikdict.com/dictionaries/stardict/wikdict-zh-en.zip",
+    "license": "CC BY-SA 3.0",
+    "source": "WikDict"
+  },
+  {
+    "id": "wikdict-en-ja",
+    "name": "WikDict",
+    "sourceLanguage": "en",
+    "targetLanguage": "ja",
+    "url": "https://download.wikdict.com/dictionaries/stardict/wikdict-en-ja.zip",
+    "license": "CC BY-SA 3.0",
+    "source": "WikDict"
+  },
+  {
+    "id": "wikdict-en-fr",
+    "name": "WikDict",
+    "sourceLanguage": "en",
+    "targetLanguage": "fr",
+    "url": "https://download.wikdict.com/dictionaries/stardict/wikdict-en-fr.zip",
+    "license": "CC BY-SA 3.0",
+    "source": "WikDict"
+  },
+  {
+    "id": "wikdict-fr-en",
+    "name": "WikDict",
+    "sourceLanguage": "fr",
+    "targetLanguage": "en",
+    "url": "https://download.wikdict.com/dictionaries/stardict/wikdict-fr-en.zip",
+    "license": "CC BY-SA 3.0",
+    "source": "WikDict"
+  },
+  {
+    "id": "wikdict-en-de",
+    "name": "WikDict",
+    "sourceLanguage": "en",
+    "targetLanguage": "de",
+    "url": "https://download.wikdict.com/dictionaries/stardict/wikdict-en-de.zip",
+    "license": "CC BY-SA 3.0",
+    "source": "WikDict"
+  },
+  {
+    "id": "wikdict-de-en",
+    "name": "WikDict",
+    "sourceLanguage": "de",
+    "targetLanguage": "en",
+    "url": "https://download.wikdict.com/dictionaries/stardict/wikdict-de-en.zip",
+    "license": "CC BY-SA 3.0",
+    "source": "WikDict"
+  },
+  {
+    "id": "wikdict-en-es",
+    "name": "WikDict",
+    "sourceLanguage": "en",
+    "targetLanguage": "es",
+    "url": "https://download.wikdict.com/dictionaries/stardict/wikdict-en-es.zip",
+    "license": "CC BY-SA 3.0",
+    "source": "WikDict"
+  },
+  {
+    "id": "wikdict-es-en",
+    "name": "WikDict",
+    "sourceLanguage": "es",
+    "targetLanguage": "en",
+    "url": "https://download.wikdict.com/dictionaries/stardict/wikdict-es-en.zip",
+    "license": "CC BY-SA 3.0",
+    "source": "WikDict"
+  },
+  {
+    "id": "wikdict-en-ko",
+    "name": "WikDict",
+    "sourceLanguage": "en",
+    "targetLanguage": "ko",
+    "url": "https://download.wikdict.com/dictionaries/stardict/wikdict-en-ko.zip",
+    "license": "CC BY-SA 3.0",
+    "source": "WikDict"
+  }
+]
