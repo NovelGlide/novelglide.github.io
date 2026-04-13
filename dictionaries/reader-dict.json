@@ -1,0 +1,326 @@
+[
+  {
+    "id": "readerdict-ar-ar",
+    "name": "العربية",
+    "sourceLanguage": "ar",
+    "targetLanguage": "ar",
+    "url": "https://www.reader-dict.com/file/ar/dict-ar-ar.zip",
+    "license": "CC BY-SA 3.0",
+    "source": "reader-dict"
+  },
+  {
+    "id": "readerdict-bg-bg",
+    "name": "Български",
+    "sourceLanguage": "bg",
+    "targetLanguage": "bg",
+    "url": "https://www.reader-dict.com/file/bg/dict-bg-bg.zip",
+    "license": "CC BY-SA 3.0",
+    "source": "reader-dict"
+  },
+  {
+    "id": "readerdict-ca-ca",
+    "name": "Català",
+    "sourceLanguage": "ca",
+    "targetLanguage": "ca",
+    "url": "https://www.reader-dict.com/file/ca/dict-ca-ca.zip",
+    "license": "CC BY-SA 3.0",
+    "source": "reader-dict"
+  },
+  {
+    "id": "readerdict-cs-cs",
+    "name": "Čeština",
+    "sourceLanguage": "cs",
+    "targetLanguage": "cs",
+    "url": "https://www.reader-dict.com/file/cs/dict-cs-cs.zip",
+    "license": "CC BY-SA 3.0",
+    "source": "reader-dict"
+  },
+  {
+    "id": "readerdict-da-da",
+    "name": "Dansk",
+    "sourceLanguage": "da",
+    "targetLanguage": "da",
+    "url": "https://www.reader-dict.com/file/da/dict-da-da.zip",
+    "license": "CC BY-SA 3.0",
+    "source": "reader-dict"
+  },
+  {
+    "id": "readerdict-de-de",
+    "name": "Deutsch",
+    "sourceLanguage": "de",
+    "targetLanguage": "de",
+    "url": "https://www.reader-dict.com/file/de/dict-de-de.zip",
+    "license": "CC BY-SA 3.0",
+    "source": "reader-dict"
+  },
+  {
+    "id": "readerdict-el-el",
+    "name": "Ελληνικά",
+    "sourceLanguage": "el",
+    "targetLanguage": "el",
+    "url": "https://www.reader-dict.com/file/el/dict-el-el.zip",
+    "license": "CC BY-SA 3.0",
+    "source": "reader-dict"
+  },
+  {
+    "id": "readerdict-en-en",
+    "name": "English",
+    "sourceLanguage": "en",
+    "targetLanguage": "en",
+    "url": "https://www.reader-dict.com/file/en/dict-en-en.zip",
+    "license": "CC BY-SA 3.0",
+    "source": "reader-dict"
+  },
+  {
+    "id": "readerdict-eo-eo",
+    "name": "Esperanto",
+    "sourceLanguage": "eo",
+    "targetLanguage": "eo",
+    "url": "https://www.reader-dict.com/file/eo/dict-eo-eo.zip",
+    "license": "CC BY-SA 3.0",
+    "source": "reader-dict"
+  },
+  {
+    "id": "readerdict-es-es",
+    "name": "Español",
+    "sourceLanguage": "es",
+    "targetLanguage": "es",
+    "url": "https://www.reader-dict.com/file/es/dict-es-es.zip",
+    "license": "CC BY-SA 3.0",
+    "source": "reader-dict"
+  },
+  {
+    "id": "readerdict-fa-fa",
+    "name": "فارسی",
+    "sourceLanguage": "fa",
+    "targetLanguage": "fa",
+    "url": "https://www.reader-dict.com/file/fa/dict-fa-fa.zip",
+    "license": "CC BY-SA 3.0",
+    "source": "reader-dict"
+  },
+  {
+    "id": "readerdict-fi-fi",
+    "name": "Suomi",
+    "sourceLanguage": "fi",
+    "targetLanguage": "fi",
+    "url": "https://www.reader-dict.com/file/fi/dict-fi-fi.zip",
+    "license": "CC BY-SA 3.0",
+    "source": "reader-dict"
+  },
+  {
+    "id": "readerdict-fr-fr",
+    "name": "Français",
+    "sourceLanguage": "fr",
+    "targetLanguage": "fr",
+    "url": "https://www.reader-dict.com/file/fr/dict-fr-fr.zip",
+    "license": "CC BY-SA 3.0",
+    "source": "reader-dict"
+  },
+  {
+    "id": "readerdict-he-he",
+    "name": "עברית",
+    "sourceLanguage": "he",
+    "targetLanguage": "he",
+    "url": "https://www.reader-dict.com/file/he/dict-he-he.zip",
+    "license": "CC BY-SA 3.0",
+    "source": "reader-dict"
+  },
+  {
+    "id": "readerdict-hi-hi",
+    "name": "हिन्दी",
+    "sourceLanguage": "hi",
+    "targetLanguage": "hi",
+    "url": "https://www.reader-dict.com/file/hi/dict-hi-hi.zip",
+    "license": "CC BY-SA 3.0",
+    "source": "reader-dict"
+  },
+  {
+    "id": "readerdict-hu-hu",
+    "name": "Magyar",
+    "sourceLanguage": "hu",
+    "targetLanguage": "hu",
+    "url": "https://www.reader-dict.com/file/hu/dict-hu-hu.zip",
+    "license": "CC BY-SA 3.0",
+    "source": "reader-dict"
+  },
+  {
+    "id": "readerdict-id-id",
+    "name": "Bahasa Indonesia",
+    "sourceLanguage": "id",
+    "targetLanguage": "id",
+    "url": "https://www.reader-dict.com/file/id/dict-id-id.zip",
+    "license": "CC BY-SA 3.0",
+    "source": "reader-dict"
+  },
+  {
+    "id": "readerdict-it-it",
+    "name": "Italiano",
+    "sourceLanguage": "it",
+    "targetLanguage": "it",
+    "url": "https://www.reader-dict.com/file/it/dict-it-it.zip",
+    "license": "CC BY-SA 3.0",
+    "source": "reader-dict"
+  },
+  {
+    "id": "readerdict-ja-ja",
+    "name": "日本語",
+    "sourceLanguage": "ja",
+    "targetLanguage": "ja",
+    "url": "https://www.reader-dict.com/file/ja/dict-ja-ja.zip",
+    "license": "CC BY-SA 3.0",
+    "source": "reader-dict"
+  },
+  {
+    "id": "readerdict-ko-ko",
+    "name": "한국어",
+    "sourceLanguage": "ko",
+    "targetLanguage": "ko",
+    "url": "https://www.reader-dict.com/file/ko/dict-ko-ko.zip",
+    "license": "CC BY-SA 3.0",
+    "source": "reader-dict"
+  },
+  {
+    "id": "readerdict-lt-lt",
+    "name": "Lietuvių",
+    "sourceLanguage": "lt",
+    "targetLanguage": "lt",
+    "url": "https://www.reader-dict.com/file/lt/dict-lt-lt.zip",
+    "license": "CC BY-SA 3.0",
+    "source": "reader-dict"
+  },
+  {
+    "id": "readerdict-ms-ms",
+    "name": "Bahasa Melayu",
+    "sourceLanguage": "ms",
+    "targetLanguage": "ms",
+    "url": "https://www.reader-dict.com/file/ms/dict-ms-ms.zip",
+    "license": "CC BY-SA 3.0",
+    "source": "reader-dict"
+  },
+  {
+    "id": "readerdict-nb-nb",
+    "name": "Norsk bokmål",
+    "sourceLanguage": "nb",
+    "targetLanguage": "nb",
+    "url": "https://www.reader-dict.com/file/nb/dict-nb-nb.zip",
+    "license": "CC BY-SA 3.0",
+    "source": "reader-dict"
+  },
+  {
+    "id": "readerdict-nl-nl",
+    "name": "Nederlands",
+    "sourceLanguage": "nl",
+    "targetLanguage": "nl",
+    "url": "https://www.reader-dict.com/file/nl/dict-nl-nl.zip",
+    "license": "CC BY-SA 3.0",
+    "source": "reader-dict"
+  },
+  {
+    "id": "readerdict-pl-pl",
+    "name": "Polski",
+    "sourceLanguage": "pl",
+    "targetLanguage": "pl",
+    "url": "https://www.reader-dict.com/file/pl/dict-pl-pl.zip",
+    "license": "CC BY-SA 3.0",
+    "source": "reader-dict"
+  },
+  {
+    "id": "readerdict-pt-pt",
+    "name": "Português",
+    "sourceLanguage": "pt",
+    "targetLanguage": "pt",
+    "url": "https://www.reader-dict.com/file/pt/dict-pt-pt.zip",
+    "license": "CC BY-SA 3.0",
+    "source": "reader-dict"
+  },
+  {
+    "id": "readerdict-ro-ro",
+    "name": "Română",
+    "sourceLanguage": "ro",
+    "targetLanguage": "ro",
+    "url": "https://www.reader-dict.com/file/ro/dict-ro-ro.zip",
+    "license": "CC BY-SA 3.0",
+    "source": "reader-dict"
+  },
+  {
+    "id": "readerdict-ru-ru",
+    "name": "Русский",
+    "sourceLanguage": "ru",
+    "targetLanguage": "ru",
+    "url": "https://www.reader-dict.com/file/ru/dict-ru-ru.zip",
+    "license": "CC BY-SA 3.0",
+    "source": "reader-dict"
+  },
+  {
+    "id": "readerdict-sk-sk",
+    "name": "Slovenčina",
+    "sourceLanguage": "sk",
+    "targetLanguage": "sk",
+    "url": "https://www.reader-dict.com/file/sk/dict-sk-sk.zip",
+    "license": "CC BY-SA 3.0",
+    "source": "reader-dict"
+  },
+  {
+    "id": "readerdict-sv-sv",
+    "name": "Svenska",
+    "sourceLanguage": "sv",
+    "targetLanguage": "sv",
+    "url": "https://www.reader-dict.com/file/sv/dict-sv-sv.zip",
+    "license": "CC BY-SA 3.0",
+    "source": "reader-dict"
+  },
+  {
+    "id": "readerdict-th-th",
+    "name": "ไทย",
+    "sourceLanguage": "th",
+    "targetLanguage": "th",
+    "url": "https://www.reader-dict.com/file/th/dict-th-th.zip",
+    "license": "CC BY-SA 3.0",
+    "source": "reader-dict"
+  },
+  {
+    "id": "readerdict-tr-tr",
+    "name": "Türkçe",
+    "sourceLanguage": "tr",
+    "targetLanguage": "tr",
+    "url": "https://www.reader-dict.com/file/tr/dict-tr-tr.zip",
+    "license": "CC BY-SA 3.0",
+    "source": "reader-dict"
+  },
+  {
+    "id": "readerdict-uk-uk",
+    "name": "Українська",
+    "sourceLanguage": "uk",
+    "targetLanguage": "uk",
+    "url": "https://www.reader-dict.com/file/uk/dict-uk-uk.zip",
+    "license": "CC BY-SA 3.0",
+    "source": "reader-dict"
+  },
+  {
+    "id": "readerdict-ur-ur",
+    "name": "اردو",
+    "sourceLanguage": "ur",
+    "targetLanguage": "ur",
+    "url": "https://www.reader-dict.com/file/ur/dict-ur-ur.zip",
+    "license": "CC BY-SA 3.0",
+    "source": "reader-dict"
+  },
+  {
+    "id": "readerdict-vi-vi",
+    "name": "Tiếng Việt",
+    "sourceLanguage": "vi",
+    "targetLanguage": "vi",
+    "url": "https://www.reader-dict.com/file/vi/dict-vi-vi.zip",
+    "license": "CC BY-SA 3.0",
+    "source": "reader-dict"
+  },
+  {
+    "id": "readerdict-zh-zh",
+    "name": "中文",
+    "sourceLanguage": "zh-Hans",
+    "targetLanguage": "zh-Hans",
+    "url": "https://www.reader-dict.com/file/zh/dict-zh-zh.zip",
+    "license": "CC BY-SA 3.0",
+    "source": "reader-dict"
+  }
+]
