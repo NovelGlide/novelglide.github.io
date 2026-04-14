@@ -1,0 +1,83 @@
+[
+  {
+    "id": "jmdict-ja-en",
+    "name": "JMdict",
+    "sourceLanguage": "ja",
+    "targetLanguage": "en",
+    "url": "https://github.com/koaeH/JMdict-sdcv/releases/download/20230101/org.edrdg.jmdict-jpn-eng.tar.gz",
+    "license": "CC BY-SA 3.0",
+    "source": "JMdict"
+  },
+  {
+    "id": "jmdict-ja-de",
+    "name": "JMdict",
+    "sourceLanguage": "ja",
+    "targetLanguage": "de",
+    "url": "https://github.com/koaeH/JMdict-sdcv/releases/download/20230101/org.edrdg.jmdict-jpn-ger.tar.gz",
+    "license": "CC BY-SA 3.0",
+    "source": "JMdict"
+  },
+  {
+    "id": "jmdict-ja-fr",
+    "name": "JMdict",
+    "sourceLanguage": "ja",
+    "targetLanguage": "fr",
+    "url": "https://github.com/koaeH/JMdict-sdcv/releases/download/20230101/org.edrdg.jmdict-jpn-fre.tar.gz",
+    "license": "CC BY-SA 3.0",
+    "source": "JMdict"
+  },
+  {
+    "id": "jmdict-ja-ru",
+    "name": "JMdict",
+    "sourceLanguage": "ja",
+    "targetLanguage": "ru",
+    "url": "https://github.com/koaeH/JMdict-sdcv/releases/download/20230101/org.edrdg.jmdict-jpn-rus.tar.gz",
+    "license": "CC BY-SA 3.0",
+    "source": "JMdict"
+  },
+  {
+    "id": "jmdict-ja-nl",
+    "name": "JMdict",
+    "sourceLanguage": "ja",
+    "targetLanguage": "nl",
+    "url": "https://github.com/koaeH/JMdict-sdcv/releases/download/20230101/org.edrdg.jmdict-jpn-dut.tar.gz",
+    "license": "CC BY-SA 3.0",
+    "source": "JMdict"
+  },
+  {
+    "id": "jmdict-ja-es",
+    "name": "JMdict",
+    "sourceLanguage": "ja",
+    "targetLanguage": "es",
+    "url": "https://github.com/koaeH/JMdict-sdcv/releases/download/20230101/org.edrdg.jmdict-jpn-spa.tar.gz",
+    "license": "CC BY-SA 3.0",
+    "source": "JMdict"
+  },
+  {
+    "id": "jmdict-ja-hu",
+    "name": "JMdict",
+    "sourceLanguage": "ja",
+    "targetLanguage": "hu",
+    "url": "https://github.com/koaeH/JMdict-sdcv/releases/download/20230101/org.edrdg.jmdict-jpn-hun.tar.gz",
+    "license": "CC BY-SA 3.0",
+    "source": "JMdict"
+  },
+  {
+    "id": "jmdict-ja-sv",
+    "name": "JMdict",
+    "sourceLanguage": "ja",
+    "targetLanguage": "sv",
+    "url": "https://github.com/koaeH/JMdict-sdcv/releases/download/20230101/org.edrdg.jmdict-jpn-swe.tar.gz",
+    "license": "CC BY-SA 3.0",
+    "source": "JMdict"
+  },
+  {
+    "id": "jmdict-ja-sl",
+    "name": "JMdict",
+    "sourceLanguage": "ja",
+    "targetLanguage": "sl",
+    "url": "https://github.com/koaeH/JMdict-sdcv/releases/download/20230101/org.edrdg.jmdict-jpn-slv.tar.gz",
+    "license": "CC BY-SA 3.0",
+    "source": "JMdict"
+  }
+]
