@@ -1,0 +1,47 @@
+{
+  "version": 1,
+  "items": [
+    {
+      "id": "reader-dict",
+      "name": "reader-dict.com",
+      "type": "static",
+      "indexUrl": "dictionaries/sources/reader-dict.json",
+      "license": "CC BY-SA 3.0",
+      "source": "reader-dict"
+    },
+    {
+      "id": "jmdict-koaeh",
+      "name": "JMdict",
+      "type": "static",
+      "indexUrl": "dictionaries/sources/jmdict-koaeh.json",
+      "license": "CC BY-SA 3.0",
+      "source": "JMdict"
+    },
+    {
+      "id": "freedict",
+      "name": "FreeDict",
+      "type": "freedict",
+      "indexUrl": "https://freedict.org/freedict-database.json",
+      "license": "GPL",
+      "source": "FreeDict"
+    },
+    {
+      "id": "wikdict",
+      "name": "WikDict",
+      "type": "wikdict",
+      "indexUrl": "https://download.wikdict.com/dictionaries/stardict/",
+      "license": "CC BY-SA 3.0",
+      "source": "WikDict"
+    },
+    {
+      "id": "lxs602-moe-dict",
+      "name": "教育部重編國語辭典",
+      "type": "github_contents",
+      "indexUrl": "https://api.github.com/repos/lxs602/Chinese-Mandarin-Dictionaries/contents/%E6%95%99%E8%82%B2%E9%83%A8%E9%87%8D%E7%B7%A8%E5%9C%8B%E8%AA%9E%E8%BE%AD%E5%85%B8(%E7%AC%AC%E4%BA%94%E7%89%88)%20Taiwan%20MOE%20Dict",
+      "sourceLanguage": "zh-Hant",
+      "targetLanguage": "zh-Hant",
+      "license": "CC BY-ND 3.0",
+      "source": "教育部 (lxs602)"
+    }
+  ]
+}
