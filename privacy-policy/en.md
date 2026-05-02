@@ -1,54 +1,70 @@
 # NovelGlide Privacy Policy
 
-Thank you for using NovelGlide. We understand that your privacy is of utmost importance to you, and we are committed to doing our best to protect the security of your personal data. This Privacy Policy explains in detail how we collect, use, store, and protect your data.
+Thank you for using NovelGlide. We understand that your privacy is of utmost importance to you, and we are committed to doing our best to protect the security of your personal data. This Privacy Policy explains in detail what data the app collects, where it is stored, and how it is used.
 
 ## 1. Data We Collect
 
 When you use this application, we may collect the following data:
 
-- **Device Data**: We may collect technical data related to your device, such as device model, operating system version, app version, and device language. Additionally, we collect data about your interactions with the app, such as the buttons you click, the features you use, and the pages you view.
-- **Storage Data**: We do not collect your private files or personal data. All your book content, reading progress, bookmarks, and collections are stored only on your device.
-   - **Cloud Backup**: If you choose to use the cloud backup feature, the relevant data will be backed up to your personal cloud drive. Rest assured, this backup data is stored only in a dedicated hidden folder for this app. We cannot and do not have the right to access any other files on your cloud drive. You retain full control over all your data.
+- **Device & usage data**: Technical data about your device (device model, operating system version, app version, device language) and data about how you interact with the app (which features you use, which pages you view, reading sessions, search queries you submit, translation requests). This data is sent to Google Analytics for Firebase to help us understand usage patterns and improve the app. It is not tied to your real-world identity.
+- **Crash & error reports**: When the app crashes or encounters a non-fatal error, a diagnostic report (stack trace, app state, device model, operating system) is sent to Firebase Crashlytics so we can fix the problem. These reports do not include the contents of your books, your highlights, or your notes.
+- **Account data (only if you sign in)**: NovelGlide works fully offline without an account. If you choose to sign in with Google to enable cloud backup, your Google account email, display name, and profile photo are stored on your device so the app can show who is signed in. We do not store this on our servers.
+- **On-device data**: Your books, reading progress, bookmarks, highlights, notes, collections, and reading preferences are stored only on your device. We do not collect, read, or upload them.
+   - **Cloud backup (optional)**: If you enable cloud backup, the app uploads the above data to a hidden, app-private folder on your personal Google Drive that only NovelGlide can access. We have no server in between — your data goes directly from your device to your Drive. We cannot access any other files on your Drive, and you can revoke access at any time from your Google account settings.
 
 ## 2. How We Use Your Data
 
 We use your data for the following purposes:
 
-1. **To ensure NovelGlide functions properly**.
-2. **To improve and optimize the app's performance and user experience**: By analyzing usage trends, we enhance the stability and smoothness of the application.
-3. **To provide technical support and customer service**: To help you resolve any questions you have while using the app.
-4. **To analyze user behavior to improve our app**: By analyzing data, we understand how users interact with the app, allowing us to make continuous improvements.
+1. **To make NovelGlide work** — for example, signing you in to your Google account so cloud backup can run.
+2. **To diagnose crashes and errors** so we can fix bugs and improve stability.
+3. **To understand how the app is used in aggregate** so we can prioritize improvements and remove features no one uses.
+4. **To provide technical support** when you contact us with a question.
+
+We do not use your data for advertising profiling, do not sell it, and do not share it with data brokers.
 
 ## 3. How We Protect Your Data
 
-We take reasonable technical and administrative measures to protect your data from unauthorized access, use, or disclosure. However, please understand that no method of internet transmission or electronic storage is 100% secure, and we cannot guarantee absolute security.
+We take reasonable technical and administrative measures to protect your data from unauthorized access, use, or disclosure. Cloud backup uses encrypted connections to Google Drive. However, please understand that no method of internet transmission or electronic storage is 100% secure, and we cannot guarantee absolute security.
 
-## 4. Do We Share Your Data with Third Parties?
+## 4. Third-Party Services
 
-We do not sell, trade, or rent your personal data to third parties. However, we may share your data with third parties in the following situations:
+NovelGlide uses the following third-party services. Each operates under its own privacy policy:
 
-1. **Legal Requirements**: If required by law or government authorities, we may need to disclose your data in accordance with the law.
-2. **Partners or Service Providers**: In some cases, we may share non-personally identifiable data with carefully selected third-party service providers to help us provide app functions (e.g., server hosting, data analysis). These third-party service providers are only allowed to use your data according to our instructions and are bound by their own privacy policies.
-   - **Google AdMob**: Used to provide in-app advertising services. You can manage your ad preferences in your device settings.
-   - **Google Analytics for Firebase**: Used to analyze app usage data to help us understand user behavior and improve the app.
+- **Google Analytics for Firebase** — collects the device and usage data described above to help us understand aggregate usage. Events sent include things like opening the app, opening a book, completing a reading session, performing a search, requesting a translation, and changing a small number of preferences (such as theme and locale).
+- **Firebase Crashlytics** — receives crash and non-fatal error reports as described above.
+- **Google AdMob** — shows in-app banner advertisements. The AdMob SDK may receive a device-level advertising identifier, coarse location, and general app activity. You can reset or limit this identifier at any time in your device settings.
+- **Google Sign-In and Google Drive** — used only when you opt in to cloud backup, and only with the access needed to read and write the app-private backup folder on your own Drive.
+- **Google Books** — when you import a book without metadata, the app may look it up by title, author, or ISBN to fetch a cover and description. No personal identifier is sent.
+- **On-device translation** — translation runs entirely on your device. On Android (and older iOS) the app uses Google ML Kit, which downloads language packs from Google when you install a language. On supported iOS versions the app uses Apple's built-in translation framework. In either case, the text you translate is never sent to a server.
 
-## 5. Data Retention and Deletion
+We may also be required to disclose data when compelled by law or a valid government request.
 
-Your personal data will be retained for the duration of your use of this application. When you uninstall the app or actively request us to delete it, we will stop collecting your data. Please note that some third-party service providers may retain some anonymous data according to their privacy policies.
+## 5. Permissions
 
-## 6. Your Rights
+NovelGlide requests only the permissions it needs:
 
-You have the right to access, update, or delete your personal data at any time. You can also manage your settings within the app or contact us for further action. If you have any concerns about how we handle your personal data, you can contact us at any time.
+- **Internet** — for cloud backup, advertising, analytics, translation pack downloads, and metadata lookups.
+- **Storage / file access** — to import EPUB files you choose with the system file picker.
+- **Advertising ID (Android)** — used by Google AdMob to deliver advertisements.
 
-## 7. Children's Privacy
+## 6. Data Retention and Deletion
+
+Your on-device data stays on your device until you delete a book, clear app data, or uninstall the app. Cloud backup data lives in your own Google Drive — you can delete it at any time by signing in to Drive and removing the app's data, or by revoking the app's access from your Google account settings. Anonymized analytics and crash data may be retained by Google according to their respective retention policies.
+
+## 7. Your Rights
+
+You have the right to access, update, or delete your personal data at any time. Most of your data lives on your device or in your own Google Drive, so you control it directly. If you have any concerns about how we handle your data, you may contact us at any time using the link below.
+
+## 8. Children's Privacy
 
 Our app does not knowingly collect personal data from children under the age of 13. If we learn that we have collected such data, we will delete it immediately.
 
-## 8. Updates to the Privacy Policy
+## 9. Updates to the Privacy Policy
 
 We may update this Privacy Policy from time to time to reflect changes in our data processing practices. All updates will be communicated to you through the app or other appropriate means.
 
-## 9. Contact Us
+## 10. Contact Us
 
 If you have any questions about this Privacy Policy or our data handling, please contact us via the following:
 
